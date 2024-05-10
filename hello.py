@@ -1,3 +1,3 @@
-print("Hello World")
+print("Hello World!")
 a = input("Привет")
 print(a)
